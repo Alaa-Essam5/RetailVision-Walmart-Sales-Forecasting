@@ -1,0 +1,5 @@
+{
+  "name": "RetailForecast AI",
+  "description": "An advanced sales forecasting platform leveraging XGBoost and Optuna for precise retail analytics.",
+  "requestFramePermissions": []
+}
