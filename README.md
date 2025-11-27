@@ -41,8 +41,7 @@ During the research phase, we experimented with several Deep Learning architectu
 *   **Deployment:** ReactJs, recharts (for dashboard), Flask (for backend)
 
 ## Demo
-<img src="https://github.com/user-attachments/assets/9f21de5e-fc2b-402c-9c5f-32c1f58ea5bf" alt="Dashboard Preview" width="800">
-
+![Dashboard Preview](https://github.com/user-attachments/assets/9f21de5e-fc2b-402c-9c5f-32c1f58ea5bf)
 ## Installation & Usage
 
 1.  **Clone this repo:**
